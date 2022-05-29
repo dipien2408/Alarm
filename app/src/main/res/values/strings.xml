@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Alarmy_test2</string>
+    <string name="app_name">Alarmy</string>
     <string name="next_alarm">Báo thức tiếp theo</string>
     <string name="alarm_date">Các ngày làm việc</string>
     <string name="no_alarm_on">Không có báo thức sắp tới</string>
